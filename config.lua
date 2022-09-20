@@ -13,7 +13,7 @@ xBoss = {
     MarkerTourne = false,
     
     RankAcces = {"admin", "superadmin", "dev", "owner"}, -- Grade staff ayant accès au menu
-    LogsDiscord = "https://discord.com/api/webhooks/782971847523696672/E_7mSp_FI26ui6utOHNCFG6TizVPsoJuwptXCKMkqYbPuIFPA7D8AXG1NXlIecrvwUMI"
+    LogsDiscord = ""
 }
 
 --- Xed#1188 | https://discord.gg/HvfAsbgVpM
