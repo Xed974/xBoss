@@ -189,6 +189,7 @@ ESX.RegisterServerCallback("xBoss:getEmployes", function(source, cb, name)
                     for k, j in pairs(result2) do
                         table.insert(send, {firstname = v.firstname, lastname = v.lastname, grade = j.label})
                     end
+                    Wait(1000)
                     cb(send)
                 end)
             end
